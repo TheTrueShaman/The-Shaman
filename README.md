@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @The-Shaman
 - 👀 I’m interested in coding... Why else would I be here?
 - 🌱 I’m currently learning Python (I know it's inefficient, no need to remind me).
-- 💞️ I’m looking to collaborate on
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on anything...
+- 📫 How to reach me
