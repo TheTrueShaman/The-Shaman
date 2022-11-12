@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @The-Shaman
+- 👋 Hi, I’m @TheTrueShaman
 - 👀 I’m interested in coding... Why else would I be here?
 - 🌱 I’m currently learning Python, Javascript, Lua, and Scheme.
 - 💞️ I’m looking to collaborate on anything...
