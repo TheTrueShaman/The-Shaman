@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @TheTrueShaman
-- 👀 I’m interested in coding... Why else would I be here?
-- 🌱 I’m currently learning Python, Javascript, Lua, and Scheme.
-- 💞️ I’m looking to collaborate on anything...
-- 📫 How to reach me: TheTrueShaman#9445 on discord
+- Hello, I’m @TheTrueShaman
+- You can reach me at: thetrueshaman on discord
